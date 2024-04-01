@@ -1,5 +1,5 @@
 #--------------------------
-# xebro GmbH - nginx-php - 0.0.1
+# xebro GmbH - nginx-php - 0.0.2
 #--------------------------
 
 nginx-php.bash: ## start nginx bash
